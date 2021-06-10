@@ -1,0 +1,32 @@
+_repo: Disunion-and-Restoration-in-Tennessee-Submitted-in-Partial-Fulfillment-of-the-Requirements-fo__65442
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neal, John Randolph
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '53350'
+    url: http://www.gutenberg.org/2009/agents/53350
+    wikipedia: https://en.wikipedia.org/wiki/John_Randolph_Neal_Jr.
+description: ''
+gutenberg_issued: '2021-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65442'
+  lccn: a10002305
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Tennessee -- Politics and government -- 1861-1865'
+- !lcc 'E660'
+- !lcc 'E456'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Tennessee'
+- GITenberg
+title: 'Disunion and Restoration in Tennessee
+
+  Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of
+  Philosophy in the Faculty of Political Science, Columbia University'
+url: http://www.gutenberg.org/ebooks/65442
